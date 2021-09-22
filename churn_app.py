@@ -4,7 +4,7 @@ import numpy as np
 import pickle
 import base64
 #import matplotlib.pyplot as plt
-import seaborn as sns
+#import seaborn as sns
 import lime 
 from lime import lime_tabular
 import streamlit.components.v1 as components
