@@ -5,3 +5,4 @@ seaborn==0.11.0
 lime==0.2.0.1
 matplotlib==3.3.2
 plotly==5.0.0
+pandas==1.1.3
